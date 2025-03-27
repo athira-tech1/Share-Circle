@@ -10,9 +10,7 @@ A **Flutter-based web application** for **buying and selling second-hand books**
 ✅ **User Authentication** (Google Sign-In, Email/Password)  
 ✅ **List Books for Sale** with images, descriptions, and prices  
 ✅ **Browse & Search** available books by category, author, or title  
-✅ **Chat System** for buyer-seller communication  
-✅ **Secure Transactions** with Firebase integration  
-✅ **Mobile & Web Responsive UI**  
+✅ **Web Responsive UI**  
 
 ## 🛠️ Technologies Used  
 - **Flutter** (for cross-platform development)  
